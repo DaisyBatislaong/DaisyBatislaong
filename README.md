@@ -4,7 +4,7 @@ Hello and Welcome👋 I’m Daisy Jane Batislaong
 -     🌱 I’m currently learning ...
 -     💞️ I’m looking to collaborate on ...
 
-  **🔗 Connect With Me**
+ **🔗 Connect With Me**
 - 
 
 <!---
