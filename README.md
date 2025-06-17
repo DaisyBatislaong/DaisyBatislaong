@@ -84,7 +84,8 @@
 
 *I create Excel-based automations and data pipelines that simplify reporting, clean datasets, and save hours of manual work in finance, operations, and admin tasks.*
 
-####𝐀𝐏𝐈𝐬 & 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧𝐬
+#### 𝐀𝐏𝐈𝐬 & 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧𝐬
+
 *I connect systems and services to enable seamless workflows across your tools.*
 ---
 
