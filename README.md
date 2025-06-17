@@ -16,44 +16,81 @@
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack & Business Use
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br/><br/>
+#### 🔹 Frontend
 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br/><br/>
-
-  <!-- ERP -->
-  <img src="https://img.shields.io/badge/Odoo-4e3a7c?style=for-the-badge&logo=odoo&logoColor=white" />
-  <br/><br/>
-
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <br/><br/>
-
-  <!-- DevOps & Tools -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-Integration-blue?style=for-the-badge" />
-  <br/><br/>
-
-  <!-- Automation -->
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VBA-00B140?style=for-the-badge&logo=visual-basic&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
+*I build responsive, user-friendly interfaces for business apps/websites. Using component-based frameworks, I ensure fast performance and a great user experience.*
+
+---
+
+#### 🔹 Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-red?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+*I develop backend logic and automation scripts. I streamline operations by automating repetitive tasks, improving system efficiency, and reducing manual work.*
+
+---
+
+#### 🔹 ERP
+
+<p>
+  <img src="https://img.shields.io/badge/Odoo-874C8C?style=flat-square&logo=odoo&logoColor=white" />
+</p>
+
+*I customize Odoo modules to match unique business workflows, automate processes (e.g. inventory, invoicing, CRM, HR and Payroll), and deploy end-to-end ERP systems that reduce manual work.*
+
+---
+
+#### 🔹 Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
+*I design and manage relational databases to ensure data is well-structured.*
+
+---
+
+#### 🔹 DevOps & Integration
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Integration-blue?style=flat-square&logo=plug&logoColor=white" />
+</p>
+
+*I use Docker to containerize applications for smoother deployment, testing, and scaling — ensuring apps run consistently across different environments.*
+
+---
+
+#### 🔹 Data Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA_Macros-00B140?style=flat-square&logo=visual-basic&logoColor=white" />
+</p>
+
+*I create Excel-based automations and data pipelines that simplify reporting, clean datasets, and save hours of manual work in finance, operations, and admin tasks.*
+
+####𝐀𝐏𝐈𝐬 & 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧𝐬
+*I connect systems and services to enable seamless workflows across your tools.*
 ---
 
 ### 📈 Let's Collaborate
 
-💬 Open for freelance, collaboration, or remote roles  
-📫 [LinkedIn](https://www.linkedin.com/in/daisybatislaong/) · [Upwork](https://www.upwork.com/freelancers/~010343c6a164cae23d)
+💬 Available for freelance work, collaborations, or exciting new roles  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/daisybatislaong/) · [Upwork](https://www.upwork.com/freelancers/~010343c6a164cae23d)
+
+
