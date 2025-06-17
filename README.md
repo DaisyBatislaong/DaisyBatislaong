@@ -46,10 +46,6 @@
 
 ### 📈 Let's Collaborate
 💬 Available for freelance work, collaborations, or exciting new roles.  
-📫 Reach me on [LinkedIn](https://www.linkedin.com) · [Upwork](https://www.upwork.com) · [Twitter](https://twitter.com)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/daisybatislaong/?) · [Upwork](https://www.upwork.com/freelancers/~010343c6a164cae23d)
 
----
 
-<p align="center">
-  <i>“In progress — but with momentum.”</i>
-</p>
