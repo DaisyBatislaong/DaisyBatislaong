@@ -3,7 +3,7 @@
 
 <p align="center"><i>𝙁𝙧𝙤𝙢 𝙘𝙤𝙣𝙘𝙚𝙥𝙩 𝙩𝙤 𝙘𝙤𝙙𝙚 — 𝙄 𝙗𝙪𝙞𝙡𝙙 𝙛𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨 𝙩𝙝𝙖𝙩 𝙢𝙖𝙠𝙚 𝙮𝙤𝙪𝙧 𝙞𝙙𝙚𝙖𝙨 𝙬𝙤𝙧𝙠.</i></p>
 
----
+--
 
 ### 🧠 About Me
 
@@ -14,7 +14,7 @@
 🔌 I specialize in automating business workflows and integrating systems  
 📊 Bonus: Data automation using **Power Query** & **VBA Macros**
 
----
+--
 
 ### ⚙️ Tech Stack & Business Use
 
@@ -29,7 +29,7 @@
 
 *I build responsive, user-friendly interfaces for business apps/websites. Using component-based frameworks, I ensure fast performance and a great user experience.*
 
----
+--
 
 #### 🔹 Backend
 
@@ -41,7 +41,7 @@
 
 *I develop backend logic and automation scripts. I streamline operations by automating repetitive tasks, improving system efficiency, and reducing manual work.*
 
----
+--
 
 #### 🔹 ERP
 
@@ -51,7 +51,7 @@
 
 *I customize Odoo modules to match unique business workflows, automate processes (e.g. inventory, invoicing, CRM, HR and Payroll), and deploy end-to-end ERP systems that reduce manual work.*
 
----
+--
 
 #### 🔹 Databases
 
@@ -62,7 +62,7 @@
 
 *I design and manage relational databases to ensure data is well-structured.*
 
----
+--
 
 #### 🔹 DevOps & Integration
 
@@ -73,7 +73,7 @@
 
 *I use Docker to containerize applications for smoother deployment, testing, and scaling — ensuring apps run consistently across different environments.*
 
----
+--
 
 #### 🔹 Data Automation
 
@@ -84,10 +84,12 @@
 
 *I create Excel-based automations and data pipelines that simplify reporting, clean datasets, and save hours of manual work in finance, operations, and admin tasks.*
 
-#### 𝐀𝐏𝐈𝐬 & 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧𝐬
+
+#### API & Integrations
 
 *I connect systems and services to enable seamless workflows across your tools.*
----
+
+--
 
 ### 📈 Let's Collaborate
 
