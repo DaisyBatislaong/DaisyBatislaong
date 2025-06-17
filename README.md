@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hey, I’m [Your Name] — Builder of Better Workflows
 
-<!--
-**DaisyBatislaong/DaisyBatislaong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Django + Tailwind enthusiast who thrives on creating fast, flexible, and user-friendly systems.  
+From backend logic to frontend finesse, I bridge structure with style — one component at a time.  
 
-Here are some ideas to get you started:
+Whether I’m engineering a custom timesheet tool or prototyping a sprint-based self-dev module, I aim for one thing:  
+**clarity in code, and elegance in execution.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+- **Backend:** Django · Django REST Framework · PostgreSQL  
+- **Frontend:** Tailwind CSS · Vanilla JavaScript (with fetch) · HTML5  
+- **Workflow:** Git · GitHub · Agile-inspired sprints · Self-driven iteration
+
+---
+
+## 🔧 Currently Building
+- 🗓 A modular timesheet and project tracking system  
+- ⚡ Dynamic form experiences with real-time JS interactions  
+- 🧠 A personal development framework inspired by software cycles
+
+---
+
+## 🌐 Let’s Connect
+- [LinkedIn](https://www.linkedin.com)
+- [Twitter](https://twitter.com)
+- Portfolio coming soon…
+
+---
+
+> _“In progress — but with momentum.”_
