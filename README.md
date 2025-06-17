@@ -16,36 +16,44 @@
 
 ---
 
-### ⚙️ Tech Stack & Business Use
+### ⚙️ Tech Stack
 
-#### 🔹 Frontend
-**React.js** · **Next.js** · **Tailwind CSS** · **Bootstrap**  
-*Responsive, component-based UIs for speed and usability*
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <br/><br/>
 
-#### 🔹 Backend
-**Django** · **Django REST Framework** · **Python**  
-*Automation, logic, and backend APIs for scalable systems*
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br/><br/>
 
-#### 🔹 ERP
-**Odoo** (custom modules, workflow automation, deployment)  
-*HR, CRM, Inventory, Payroll, Invoicing, and more*
+  <!-- ERP -->
+  <img src="https://img.shields.io/badge/Odoo-4e3a7c?style=for-the-badge&logo=odoo&logoColor=white" />
+  <br/><br/>
 
-#### 🔹 Databases
-**PostgreSQL** · **SQL Server**  
-*Well-structured relational database management*
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <br/><br/>
 
-#### 🔹 DevOps & Integration
-**Docker** · **API Integration**  
-*Deploy with confidence and connect your tools seamlessly*
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-Integration-blue?style=for-the-badge" />
+  <br/><br/>
 
-#### 🔹 Data Automation
-**Power Query** · **VBA Macros**  
-*Excel automations that cut hours off your workflows*
+  <!-- Automation -->
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-00B140?style=for-the-badge&logo=visual-basic&logoColor=white" />
+</p>
 
 ---
 
 ### 📈 Let's Collaborate
-💬 Available for freelance work, collaborations, or exciting new roles.  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/daisybatislaong/?) · [Upwork](https://www.upwork.com/freelancers/~010343c6a164cae23d)
 
-
+💬 Open for freelance, collaboration, or remote roles  
+📫 [LinkedIn](https://www.linkedin.com/in/daisybatislaong/) · [Upwork](https://www.upwork.com/freelancers/~010343c6a164cae23d)
