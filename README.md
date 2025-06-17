@@ -15,7 +15,6 @@
 📊 Bonus: Data automation using **Power Query** & **VBA Macros**
 
 ---
----
 
 ### 📊 GitHub Activity
 
@@ -25,10 +24,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daisybatislaong&layout=compact&theme=radical" />
 </p>
 
-
+---
 ### ⚙️ Tech Stack & Business Use
 
-<p align="center"> <!-- Frontend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" /> <!-- Backend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> <!-- ERP (Odoo) --> <img src="https://img.icons8.com/ios-filled/50/874C8C/odoo.png" height="40" alt="Odoo" /> <!-- Databases --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /> <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="40" alt="SQL Server" /> <!-- DevOps & Integration --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /> <img src="https://img.icons8.com/fluency/48/api.png" height="40" alt="API Integration" /> <!-- Data Automation --> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="Power Query" /> <img src="https://img.icons8.com/color/48/visual-basic.png" height="40" alt="VBA Macros" /> </p>
+<p align="center"> <!-- Frontend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" /> <!-- Backend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> <!-- ERP (Odoo) --> <img src="https://raw.githubusercontent.com/odb/official-badge-icons/master/src/odoo.svg" height="40" alt="Odoo" /> <!-- Databases --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /> <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="40" alt="SQL Server" /> <!-- DevOps & Integration --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /> <img src="https://img.icons8.com/fluency/48/api.png" height="40" alt="API Integration" /> <!-- Data Automation --> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="Power Query" /> <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-vba-coding-and-development-flat-flat-juicy-fish.png" height="40" alt="VBA Macros" /> </p>
 
 ### 📈 Let's Collaborate
 
