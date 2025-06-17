@@ -17,6 +17,12 @@
 ---
 
 ### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daisybatislaong&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=daisybatislaong&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daisybatislaong&layout=compact&theme=radical" />
+</p>
+---
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: center;"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/DRF-red?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Odoo-874C8C?style=flat-square&logo=odoo&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/API_Integration-blue?style=flat-square&logo=plug&logoColor=white" /> <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/VBA_Macros-00B140?style=flat-square&logo=visual-basic&logoColor=white" /> </div>
 ### 📈 Let's Collaborate
 
