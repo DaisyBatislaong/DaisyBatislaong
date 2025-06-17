@@ -97,4 +97,13 @@
 💬 Available for freelance work, collaborations, or exciting new roles  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/daisybatislaong/) · [Upwork](https://www.upwork.com/freelancers/~010343c6a164cae23d)
 
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daisybatislaong&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=daisybatislaong&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daisybatislaong&layout=compact&theme=radical" />
+</p>
 
