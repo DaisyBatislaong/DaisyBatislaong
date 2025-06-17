@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey there 👋 I'm Daisy Batislaong</h1>
 <h3 align="center">Full-Stack Developer | React · Next.js · Django · Odoo</h3>
 
 <p align="center"><i>𝙁𝙧𝙤𝙢 𝙘𝙤𝙣𝙘𝙚𝙥𝙩 𝙩𝙤 𝙘𝙤𝙙𝙚 — 𝙄 𝙗𝙪𝙞𝙡𝙙 𝙛𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨 𝙩𝙝𝙖𝙩 𝙢𝙖𝙠𝙚 𝙮𝙤𝙪𝙧 𝙞𝙙𝙚𝙖𝙨 𝙬𝙤𝙧𝙠.</i></p>
@@ -84,8 +84,9 @@
 
 *I create Excel-based automations and data pipelines that simplify reporting, clean datasets, and save hours of manual work in finance, operations, and admin tasks.*
 
+---
 
-#### API & Integrations
+#### 🔹 API & Integrations
 
 *I connect systems and services to enable seamless workflows across your tools.*
 
