@@ -15,88 +15,6 @@
 📊 Bonus: Data automation using **Power Query** & **VBA Macros**
 
 ---
-
-### ⚙️ Tech Stack & Business Use
-
-#### 🔹 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
-
-*I build responsive, user-friendly interfaces for business apps/websites. Using component-based frameworks, I ensure fast performance and a great user experience.*
-
----
-
-#### 🔹 Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-red?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-*I develop backend logic and automation scripts. I streamline operations by automating repetitive tasks, improving system efficiency, and reducing manual work.*
-
----
-
-#### 🔹 ERP
-
-<p>
-  <img src="https://img.shields.io/badge/Odoo-874C8C?style=flat-square&logo=odoo&logoColor=white" />
-</p>
-
-*I customize Odoo modules to match unique business workflows, automate processes (e.g. inventory, invoicing, CRM, HR and Payroll), and deploy end-to-end ERP systems that reduce manual work.*
-
----
-
-#### 🔹 Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-</p>
-
-*I design and manage relational databases to ensure data is well-structured.*
-
----
-
-#### 🔹 DevOps & Integration
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_Integration-blue?style=flat-square&logo=plug&logoColor=white" />
-</p>
-
-*I use Docker to containerize applications for smoother deployment, testing, and scaling — ensuring apps run consistently across different environments.*
-
----
-
-#### 🔹 Data Automation
-
-<p>
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VBA_Macros-00B140?style=flat-square&logo=visual-basic&logoColor=white" />
-</p>
-
-*I create Excel-based automations and data pipelines that simplify reporting, clean datasets, and save hours of manual work in finance, operations, and admin tasks.*
-
----
-
-#### 🔹 API & Integrations
-
-*I connect systems and services to enable seamless workflows across your tools.*
-
----
-
-### 📈 Let's Collaborate
-
-💬 Available for freelance work, collaborations, or exciting new roles  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/daisybatislaong/) · [Upwork](https://www.upwork.com/freelancers/~010343c6a164cae23d)
-
 ---
 
 ### 📊 GitHub Activity
@@ -106,4 +24,14 @@
   <img src="https://streak-stats.demolab.com?user=daisybatislaong&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daisybatislaong&layout=compact&theme=radical" />
 </p>
+
+
+### ⚙️ Tech Stack & Business Use
+
+<p align="center"> <!-- Frontend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="30" /> <!-- Backend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" /> <!-- ERP --> <img src="https://img.icons8.com/color/48/odoo.png" height="30" /> <!-- Databases --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" /> <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="30" /> <!-- DevOps & Integration --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" /> <img src="https://img.icons8.com/fluency/48/api.png" height="30" /> <!-- Data Automation --> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="30" /> <img src="https://img.icons8.com/color/48/visual-basic.png" height="30" /> </p>
+
+### 📈 Let's Collaborate
+
+💬 Available for freelance work, collaborations, or exciting new roles  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/daisybatislaong/) · [Upwork](https://www.upwork.com/freelancers/~010343c6a164cae23d)
 
