@@ -30,5 +30,5 @@
 ### 📈 Let's Collaborate
 
 💬 Available for freelance work, collaborations, or exciting new roles  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/daisybatislaong/) · [Upwork](https://www.upwork.com/freelancers/~010343c6a164cae23d)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/daisybatislaong/)
 
